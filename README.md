@@ -13,5 +13,6 @@ This study investigates the comparative capabilities of GPT-3.5 and GitHub Copil
 
 - Full research paper can be found in the file 'Rylan Research Paper.docx'
 - 'Poster.pptx' contains the research paper's information displayed in a more concise poster format
+- 'AI Data.xlsx' contains all of the reaearch observations recorded throughout the process
 - Outline / UI Prototype Flowchart for full app can be found [here](https://www.figma.com/design/qvL9FpSd9Od9jLs65ZSzlO/UI-for-Q-Brain-Quiz-Website?node-id=0-1&t=aybpiTvpcfDF0qU6-1)
 - The requirements/specifications followed for creating the website can be found [here](https://docs.google.com/document/d/1pmdiRumd7X_K0peIykOe6g0V9nnw6Fr0/edit?usp=sharing&ouid=106283006824196976075&rtpof=true&sd=true)
